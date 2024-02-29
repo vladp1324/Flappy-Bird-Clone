@@ -1,5 +1,7 @@
-# flappy-bird
+# Flappy-Bird
  
 A simple Flappy Bird clone made in Unity.
 
-![](Screenshots/ss1.png)
+*Game*
+
+![Game](Screenshots/ss1.png)
